@@ -4,7 +4,7 @@ ESPHome integrated board to control our home pool parameters.
 
 <br>
 
-![PCB View](hardware/pcb/plots/PoolSystem.png)
+![PCB View](/resources/PoolSystem.png)
 Main Board
 
 ---
@@ -36,12 +36,12 @@ Home Assistant provides a real-time dashboard displaying pH, chlorine levels, ta
 ## 🔌 Wires
 <br>
 
-![Level Sensor Wire](/hardware/wires/levelSensorWire.png)
+![Level Sensor Wire](/resources/levelSensorWire.png)
 Level Sensor wire
 
 <br><br>
 
-![Display Wire](/hardware/wires/displayWire.png)
+![Display Wire](/resources/displayWire.png)
 Display wire 
 
 <br><br>
