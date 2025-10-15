@@ -54,7 +54,7 @@ Display wire
 
 🧠 Actively in development — Hardware designed and tested; ESPHome configuration under refinement.  
 
-<br>
+<br><br>
 ---
 
 
