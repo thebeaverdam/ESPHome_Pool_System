@@ -44,7 +44,7 @@ Level Sensor wire
 ![Display Wire](/hardware/wires/displayWire.png)
 Display wire 
 
-<br><br><br>
+<br><br>
 
 ---
 
